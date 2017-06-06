@@ -1,4 +1,4 @@
 Chessboard-Assembler
 ====================
 
-Chessboard in Assembler for processor 8080
+Chessboard in Assembly for processor 8080
